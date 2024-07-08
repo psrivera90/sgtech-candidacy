@@ -1,0 +1,11 @@
+{
+    "SGTechPage": "https://sgtech.viterbit.site/",
+    "title": "Serviguidebpo careers site title",
+    "joinURL": "https://sgtech.viterbit.site/talent-community/join/",
+    "contentTitleForm": "Cuéntanos sobre ti...Únete a sg tech",
+    "email": "psrivera.1990@gmail.com",
+    "name": "Pablo",
+    "lastname": "Rivera",
+    "country": "Argentina",
+    "text": "Buenas! No me pareció mejor forma de completar este formulario que hacerlo de forma automática. Lo hice a través de Cypress, pero también manejo otras tecnologías! Si quieren ver el código de esta automatización estaría encantado que miren mi perfil de LinkedIn 'https://www.linkedin.com/in/pablorivera90/' y visiten mi repositorio. Saludos!"
+}
